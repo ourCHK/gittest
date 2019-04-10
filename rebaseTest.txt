@@ -1,0 +1,4 @@
+the first edit in rebaseTest.txt file
+the second edit in rebaseTest.txt file
+the third edit in rebaseTest.txt file
+the fourth edit in rebaseTest.txt file
